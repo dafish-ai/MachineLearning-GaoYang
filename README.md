@@ -1,4 +1,4 @@
-# MachineLearning-GaoYang
+# 《白话机器学习》-MachineLearning-GaoYang
 
 
 ### 课程概述
@@ -35,7 +35,9 @@
 最新GitHub账号注册（详细图解）https://blog.csdn.net/qq_41782425/article/details/85179912
 12分钟教你如何使用Markdown https://www.bilibili.com/video/av8819726?from=search&seid=6223599217224903501
 LaTeX公式编辑
-附件: latex公式编辑.pdf https://uploader.shimo.im/f/QYs3JhlxaS0W2K3e.pdfWeek2：回归
+附件: latex公式编辑.pdf https://uploader.shimo.im/f/QYs3JhlxaS0W2K3e.pdf
+
+##### Week2：回归
 Chapter8（P87）
 第01课：基本概念
 回归的概念
